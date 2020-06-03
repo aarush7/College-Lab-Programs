@@ -2,7 +2,7 @@
 1.Mergesort with Analysis. \
 2.Quicksort with Analysis. \
 3.DFS and BFS to Check Graph Connectivity. \
-4.(a) Vertex Deletion for Topological Sort 4(b) DFS . \
+4.(a) Vertex Deletion for Topological Sort 4(b) DFS for Topological Sort . \
 5.Heap Sort. \
 6.Horspool Algorithm String Matching. \
 7. 0/1 Knapsack Problem using Dynamic Programming. \
